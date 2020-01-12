@@ -1,4 +1,4 @@
-﻿Shader "Properties/ PracticeProperties"
+﻿Shader "Compendium/ PracticeProperties"
 {
 	Properties
 	{

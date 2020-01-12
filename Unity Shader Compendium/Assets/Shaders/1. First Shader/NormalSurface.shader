@@ -1,4 +1,4 @@
-﻿Shader "First Shader/NormalSurface"
+﻿Shader "Compendium/ NormalSurface"
 {
 	Properties
 	{
