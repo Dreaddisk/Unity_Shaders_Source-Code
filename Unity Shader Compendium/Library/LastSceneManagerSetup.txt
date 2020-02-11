@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/3.Normal Mapping.unity
+- path: Assets/_Scenes/7.Blinn-Phong Lighting.unity
   isLoaded: 1
   isActive: 1
